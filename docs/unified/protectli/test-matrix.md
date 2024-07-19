@@ -48,7 +48,7 @@ subjected from before the release of the new binary.
 === "v1000-series"
 
     The test scope is the same
-    for all platforms of the V1210/V1410/V1610 family.
+    for all platforms of the V1000 series family.
 
     ## Module: Dasharo compatibility
 
