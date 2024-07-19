@@ -2,7 +2,7 @@
 
 ## Intro
 
-This document describes the procedure for building coreboot for protectli
+This document describes the procedure for building coreboot for all Protectli
 devices.
 
 ## Requirements
