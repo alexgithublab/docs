@@ -19,6 +19,7 @@ To build Dasharo firmware image, follow the steps below:
 1. Clone the coreboot repository:
     ```bash
     git clone https://github.com/Dasharo/coreboot.git -b protectli_vault_kbl/release
+    ```
 
 === "fw6"
 
