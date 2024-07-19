@@ -45,7 +45,7 @@ subjected from before the release of the new binary.
 
     [CPT]: ../../unified-test-documentation/dasharo-performance/401-cpu-temperature.md
 
-=== "v1x1x"
+=== "v1000-series"
 
     The test scope is the same
     for all platforms of the V1210/V1410/V1610 family.

@@ -42,7 +42,7 @@ then follow the steps below:
         ./build.sh fw6
         ```
 
-=== "v1x1x"
+=== "v1000-series"
 
     > This build procedure produces full firmware binary including blobs such as
     > FSP, and ME. Currently, access to them is restricted to the OEM (Protectli) via

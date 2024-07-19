@@ -1,6 +1,6 @@
 # Recovery
 
-=== "v1x1x"
+=== "v1000-series"
 
     ## Intro
 
