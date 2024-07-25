@@ -1,12 +1,12 @@
 # Recovery
 
+## Intro
+
+The following documentation describes the process of recovering hardware from
+the brick state using an [RTE](../../transparent-validation/rte/introduction.md)
+and Dasharo open-source firmware.
+
 === "v1000-series"
-
-    ## Intro
-
-    The following documentation describes the process of recovering hardware from
-    the brick state with [RTE](../../transparent-validation/rte/introduction.md) and
-    Dasharo open-source firmware.
 
     ## Prerequisites
 
@@ -87,13 +87,6 @@
 
 === "vp46xx"
 
-    ## Intro
-
-    The following documentation describes platform-specific details of setting up
-    Protectli VP46XX for recovery from brick state with
-    [RTE](../../transparent-validation/rte/introduction.md)
-    and Dasharo open-source firmware.
-
     ## Connections
 
     Set up the connections required for external flashing as described in
@@ -122,12 +115,6 @@
         ```
 
 === "vp66xx"
-
-    ## Intro
-
-    The following documentation describes the process of recovering hardware from
-    the brick state with [RTE](../../transparent-validation/rte/introduction.md) and
-    Dasharo open-source firmware.
 
     ## Prerequisites
 
@@ -200,12 +187,6 @@
 
 === "vp2410"
 
-    ## Intro
-
-    The following documentation describes the process of recovering hardware from
-    the brick state with [RTE](../../transparent-validation/rte/introduction.md) and
-    Dasharo open-source firmware.
-
     ## Connections
 
     Set up the connections required for external flashing as described in
@@ -240,13 +221,6 @@
         ```
 
 === "vp2420"
-
-    ## Intro
-
-    The following documentation describes describes platform-specific details of
-    setting up Protectli VP2420 for recovery from brick state with
-    [RTE](../../transparent-validation/rte/introduction.md) and Dasharo open-source
-    firmware.
 
     ## Prerequisites
 
