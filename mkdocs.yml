@@ -267,7 +267,6 @@ nav:
           - "Protectli V1000 series":
               - "Releases": variants/protectli_v1000-series/releases.md
               - "Hardware Configuration Matrix": variants/protectli_v1000-series/hardware-matrix.md
-              - "Test matrix": variants/protectli_v1000-series/test-matrix.md
           - "Protectli VP2410":
               - "Releases": variants/protectli_vp2410/releases.md
               - "Hardware Configuration Matrix": variants/protectli_vp2410/hardware-matrix.md
