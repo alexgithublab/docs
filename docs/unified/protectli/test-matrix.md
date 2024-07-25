@@ -47,9 +47,6 @@ subjected from before the release of the new binary.
 
 === "v1000-series"
 
-    The test scope is the same
-    for all platforms of the V1000 series family.
-
     ## Module: Dasharo compatibility
 
     | No.  | Supported test suite                  | Test suite ID | Supported test cases                 |
@@ -133,9 +130,6 @@ subjected from before the release of the new binary.
     [BPV]: ../../unified-test-documentation/dasharo-performance/415-pfsense-vga-booting-performance-test.md
 
 === "vp46xx"
-
-    The test scope is the same
-    for all platforms of the VP46XX family.
 
     ## Module: Dasharo compatibility
 
@@ -253,9 +247,6 @@ subjected from before the release of the new binary.
     [BPV]: ../../unified-test-documentation/dasharo-performance/415-pfsense-vga-booting-performance-test.md
 
 === "vp66xx"
-
-    The test scope is the same
-    for all platforms of the VP66XX family.
 
     ## Module: Dasharo compatibility
 
